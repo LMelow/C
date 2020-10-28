@@ -4,7 +4,7 @@ void somaAB(int a, int b){
     int *x;
     x = &a;
     *x = a+b;
-    printf("a novo = %d\n", *x);
+    printf("a novo = %d\n", *x );
 
 }
 
